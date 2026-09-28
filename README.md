@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-andrade-32a8112b3/">
     <img src="./assets/banner.svg" alt="Júlio César Andrade — Tech Lead · AI Engineering" width="100%" />
   </a>
 </p>
@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=34d399" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-andrade-32a8112b3/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=34d399" alt="LinkedIn" /></a>
+  <a href="https://infojuh.github.io/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=githubpages&logoColor=34d399" alt="Portfólio" /></a>
   <a href="https://github.com/infojuh"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=34d399" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Campina_Grande,_PB-000000?style=for-the-badge&logo=googlemaps&logoColor=34d399" alt="Campina Grande, PB" />
 </p>
@@ -108,7 +109,8 @@ I currently lead the **Innovation, VIP and Implementation** areas, building inte
 ## `$ ping julio`
 
 <p align="left">
-  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=34d399" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-andrade-32a8112b3/"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=34d399" alt="LinkedIn" /></a>
+  <a href="https://infojuh.github.io/"><img src="https://img.shields.io/badge/-infojuh.github.io-000000?style=flat-square&logo=githubpages&logoColor=34d399" alt="Portfólio" /></a>
   <a href="https://github.com/infojuh"><img src="https://img.shields.io/badge/-github.com%2Finfojuh-000000?style=flat-square&logo=github&logoColor=34d399" alt="GitHub" /></a>
 </p>
 
